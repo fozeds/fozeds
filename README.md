@@ -4,7 +4,7 @@
 - Sou profissional de infraestrutura, atuo como desenvolvedor freelancer e desenvolvo projetos por hobby. Atualmente estou em processo de migração para a área de **DevOps**.
 
 **Um pouco sobre mim**
-- Minha paixão por ternologia Começou aos 11 anos com automação de tarefas em jogos.
+- Minha paixão por tecnologia Começou aos 11 anos com automação de tarefas em jogos.
 - Aprendi Python de forma autodidata para automatizar tarefas.
 - Analisava código fonte em C# para entender mecânicas repetitivas.
 
