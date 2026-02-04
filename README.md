@@ -1,4 +1,4 @@
-<h1 align="center">Richard Veras</h1>
+<h1 align="center">Richard</h1>
 <h3 align="center">Engenheiro rumo ao DevOps</h3>
 
 - Sou profissional de infraestrutura, atuo como desenvolvedor freelancer e desenvolvo projetos por hobby. Atualmente estou em processo de migração para a área de **DevOps**.
