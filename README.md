@@ -1,7 +1,7 @@
 <h1 align="center">Richard</h1>
 <h3 align="center">Engenheiro rumo ao DevOps</h3>
 
-- Sou Engenheiro da computação e trabalho infraestrutura, no tempo livre atuo como desenvolvedor e desenvolvo projetos por hobby. Atualmente estou em processo de migração para a área de **DevOps**.
+- Sou Engenheiro da computação e trabalho com infraestrutura, no tempo livre atuo como desenvolvedor e desenvolvo projetos por hobby. Atualmente estou em processo de migração para a área de **DevOps**.
 
 **Um pouco sobre mim**
 - Minha paixão por tecnologia Começou aos 11 anos com automação de tarefas em jogos.
