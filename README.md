@@ -1,4 +1,4 @@
-- Sou Engenheiro da computação e trabalho com infraestrutura, no tempo livre atuo como desenvolvedor e desenvolvo projetos por hobby.
+Sou Engenheiro da computação e trabalho com infraestrutura, no tempo livre atuo como desenvolvedor e desenvolvo projetos por hobby.
 
 **Um pouco sobre mim**
 - Minha paixão por tecnologia Começou aos 11 anos com automação de tarefas em jogos.
