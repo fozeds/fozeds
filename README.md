@@ -5,11 +5,6 @@ Sou Engenheiro da computação e trabalho com infraestrutura, no tempo livre atu
 - Aprendi Python de forma autodidata para automatizar tarefas.
 - Analisava código fonte em C# para entender mecânicas repetitivas.
 
-<h3 align="left">Conecte-se Comigo:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/richardveras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vhsmdev" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
 
